@@ -1,2 +1,1 @@
-# my_coding_prompt
-问题常用提示词
+归档工作中提示词工具,等待github copilot在idea提供提示词模板
